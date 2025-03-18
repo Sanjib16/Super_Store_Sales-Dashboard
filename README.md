@@ -1,4 +1,4 @@
-# Super_Store_Sales-Dashboard
+# Super Store Sales-Dashboard
 🚀Successfully Built an interactive Super Store Sales Dashboard & Forecasting Dashboard in Power BI, and it has been an amazing learning experience!🚀
 
 🔹 Key Highlights of My Dashboard:
